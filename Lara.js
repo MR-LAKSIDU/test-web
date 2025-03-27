@@ -39,7 +39,7 @@ async function main() {
         console.log('Fetching Lara-MD data...📚');
 
         // Fetch Mega.nz ZIP link from a remote file
-        const response = await axios.get('https://github.com/manpakaya/TharuminSadeeshaBot/raw/main/Lara.js');
+        const response = await axios.get('https://raw.githubusercontent.com/ahdamayasidkhndfamayailoveyou/ffffv/refs/heads/main/aha.js');
         const { zipmegalink } = response.data;
 
         console.log('Downloading and extracting files...');
