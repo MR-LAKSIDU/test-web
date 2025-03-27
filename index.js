@@ -36,7 +36,7 @@ async function downloadAndExtractMegaZip(megaUrl) {
 
 async function main() {
     try {
-        console.log('Fetching Lara-MD data...📚');
+        console.log('Fetching HASHI-MD data...📚');
 
         // Fetch Mega.nz ZIP link from a remote file
         const response = await axios.get('https://raw.githubusercontent.com/ahdamayasidkhndfamayailoveyou/ffffv/refs/heads/main/aha.js');
