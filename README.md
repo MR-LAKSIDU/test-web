@@ -1,107 +1,115 @@
-`Update On : 2025.03.03`
 
-<div align="center">
-	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
-<img src="https://i.ibb.co/TD5qh4JJ/20250224-022914.jpg" width="300" height="150">
-</div>
-<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=1BAFBAFF&center=true&width=1000&height=200&lines=HASHI-+MD+BOT; CREATE+BY+LAKSIDU🤦" alt="Typing SVG" /></a>
+  </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&width=435&lines=𝐌𝐘 𝐍𝐀𝐌𝐄 𝐈𝐒 𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈;𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐋𝐀𝐊𝐒𝐈𝐃𝐔;𝐅𝐎𝐑𝐊 𝐌𝐄 𝐀𝐍𝐃 𝐄𝐍𝐉𝐎𝐘!" alt="Typing SVG" />
+
+<p align="center">
+ <img src="https://i.imgur.com/JurU8ZF.jpeg"  width="750px">
+
+
+<h2 align="center">🛠️ Steps to Get Started</h2>
+
+
+### 1️⃣ Get Bot Repo FORK
+
+
+<p align="left">
+  <a href="https://github.com/laksidunimsara1/QUEEN-HASHI-MD/fork">
+    <img src="https://img.shields.io/badge/Fork%20Repo-black?style=for-the-badge&logo=github" alt="Fork Button" />
+  </a>
 </p>
-	
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+SADDESHA+LARA+MD+DEVELOPER)](https://git.io/typing-svg)
 
-<hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Lara-MD...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Lara-MD..."
-            alt="Typing">
+### 2️⃣ Get Your Session ID
 
-<div align="center">
-	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="sadeesha">
-</div>
 
-<hr>
+<p align="left">
+  <a href="https://queen-hashi-web.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Get%20Session-ID-blue?style=for-the-badge&logo=key" alt="Get Session ID" />
+  </a>
+</p>
 
-			Lara-MD බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
-       
-<h3>🌸 How To Deploy </h3>
+### 3️⃣ Get Bot Diploy
 
-<h5>🌸 First tap to Fork button and create new fork</h5>
+<h2 align="center">📋 Deployment Tutorial</h2>
 
-<h4>🌸 Following 👇</h4>
-<hr>	
-<h3>🌸 Get Your SESSION ID 👇</h3> 
-<h4>Click the SESSION_ID Button</h4>
-<h5>🌸(SESSION_ID ලබා ගැනීමට පහත බටන් click කරන්න)</h5> 
-<h3>SEVER ➊</h3>
-<div align="center">
-<button><tr><a href="https://webpair-mega-jxq2.onrender.com">🌸 SESSION_ID 🌸 ➊</a></tr></button>
-<h3>SEVER ❷</h3>
-<div align="center">
-<button><tr><a href="https://webpair-mega-jxq2.onrender.com">🌸 SESSION_ID 🌸 ❷</a></tr></button>
-</div>
-<br>
+### YouTube Bot Hosting  
 
-*🌸 Now get your inbox and copy sessino id*
+<a href="https://youtu.be/1f3JA8hMjaU" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Tutorial" />
+</a>
+</p>
 
-*🌸 If you past session id in (settings.js/SESSION_ID || "past_copy_text")*
 
-<h3>🌸 Supported Group link </h3>
-<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Lara suported 👧</a>
-<hr>
-<h3>🌸 Lara updates chanels </h3>
-<a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">Join Lara updates chanel 👧</a>
-<hr>
+<h2 align="center">📋 Deployment</h2>
 
-***CLICK THE BUTTON BELOW TO DEPLOY🌸***
+### DPLOY HEROKU
+<p align="left">
+  <a href="https://queen-hashi-web.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/DIPLOY-HEROKU-pink?style=for-the-badge&logo=key" alt="DIPLOY HEROKU" />
+  </a>
+</p>
 
- <details close>
-<summary>🌸 DEPLOY ONLY PAY 🌸</summary>
-	 
---------	 
-1.  #### DEPLOY IN HEROKU 
+### DPLOY ROPLIT
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
+<a href="https://queen-hashi-web.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Replit-orange?style=for-the-badge&logo=replit" alt="Deploy in Replit" />
+</a>
 
---------
-2.  #### DEPLOY IN REPLIT
 
-   <a href='https://repl.it/github/GlobalTechInfo/SUHAIL-XMD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+### DIPLOY RENDER
+<a href="https://queen-hashi-web.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Render-maroon?style=for-the-badge&logo=render" alt="Render Hosting" />
+</a>
 
---------
-3.  #### DEPLOY IN KOYEB
 
-<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+### DEPLOY WORKFACE  
+<a href="https://github.com/laksidunimsara1/QUEEN-HASHI-MD" target="_blank">
+  <img src="https://img.shields.io/badge/Codespaces-navy?style=for-the-badge&logo=visual-studio-code" alt="Deploy in Codespaces" />
+</a>
 
---------
-4.  #### DEPLOY IN GLITCH
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
+</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 
-<a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
 
---------
+<p align="center"><img src="https://moe-counter.glitch.me/get/@HASHI_MD?theme=gelbooru" alt="Hashi_Md_Visits_Counter" /></p>
 
-5.  #### DEPLOY TO CODESPACE
 
-<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
---------
+<h2 align="center">📲 Join the Community</h2>
 
-6. #### DEPLOY TO RENDER
+<a href="https://whatsapp.com/channel/0029Vao7dOmDOQISArwnHT0e" target="_blank">
+  <img src="https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png" alt="Join WhatsApp" />
+</a>
 
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
+</p>
 
---------
-7. #### DEPLOY TO RAILWAY
+<h2 align="center">🎉 Thank You, My Supporters!</h2>
 
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
+<p align="center">
+  <a href="https://github.com/JustaTz0/CREEPY_MD-V1/stargazers">
+    <img src="https://img.shields.io/badge/Stars-User%20List-blue?style=for-the-badge&logo=starship" alt="Starred Users" />
+  </a>
+  <a href="https://github.com/laksidunimsara1/QUEEN-HASHI-MD/network/members">
+    <img src="https://img.shields.io/badge/Forked%20By-User%20List-green?style=for-the-badge&logo=github" alt="Forked Users" />
+  </a>
+</p>
 
---------
+<p align="center">
+  🌟 *Your support keeps this project alive! Thank you for forking, starring, and sharing it with others!* 🌟
+</p>
+
 </details>
-<details close>
-<summary>🌸 DEPLOY IN FREE 🌸</summary>
-
-<h5>🌸 Deploy Free Koyeb👇</h5>
-<a href="http://koyeb.com" ><img src="https://i.ibb.co/t4KftP0/images.png width="50" height="25"></a>
 <hr>
-<h5>🌸 Deploy Free Workflows 👇</h5>
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Laksidu_Min" alt="">
+<hr>
 
+**🎀🎀🎀🎀🎀🎀FREE DEPLOY WORKFLOWS🎀🎀🎀🎀🎀🎀**
 ```
 name: Node.js CI
 
@@ -136,46 +144,4 @@ jobs:
 
     - name: Start application
       run: npm start
-```	
-</details>
-<hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha_Min" alt="">
-<hr>
-
-<h5>🌸 TOTAL WEB VIEWS</h5>
-<img src="https://profile-counter.glitch.me/Sadeesha/count.svg" center>
-
-<hr>
-
-<div align="center">
-<h3>🌸 LARA-MD Developer Team 👤</h3>
-
-| SADEESHA 👤              | VIHANGA 👤              |
-|---------------------|---------------------|
-[![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/) |
-</div>
-<hr>
-
-<hr>
-
-<div align="center">
-    
-| Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
-|----------------------|----------------------|----------------------|---------------------|---------------------|---------------------|
-| [![Owner](https://img.shields.io/badge/Author-sSadeesha-red.svg)](https://github.com/sadiyamin/Alexa/) | [![Repository](https://img.shields.io/badge/Repo-Alexa-red.svg)](https://github.com/sadiyamin/Alexa) | [![GitHub forks](https://badgen.net/github/forks/sadiyamin/Alexa/)](https://GitHub.com/sadiyamin/Alexa/network/) | [![GitHub stars](https://badgen.net/github/stars/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/PikaBotz/anya_v2-md.svg)](https://github.com/sadiyamin/Alexa/blob/master/LICENSE) 
-
-| Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
-|---------------------|---------------------|---------------------|
-| [![GitHub release](https://img.shields.io/github/release/sadiyamin/Alexa.svg)](https://GitHub.com/sadiyamin/Alexa/releases/) | [![GitHub latest commit](https://badgen.net/github/last-commit/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/commit/) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://GitHub.com/sadiyamin/Alexa/graphs/commit-activity) |
-
-
-</div>
-
-<h5>Thank You For Using Lara-MD 💗</h5>
-
-<hr>
-
-<h3>⚠️ Warning!</h3>
-
-<h5>Because of user bots; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, Lara-MD executives do not take responsibility. By setting up Lara-MD Bot you are considered to have assumed these responsibilities.</h5>
-<hr>
+```
