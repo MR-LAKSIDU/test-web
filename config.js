@@ -12,7 +12,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "https://tiktok-mocha-xi.vercel.app/",  // ADD Your Session Id 
+SESSION_ID: process.env.SESSION_ID || "https://lakiya-tiktok-web.vercel.app/",  // ADD Your Session Id 
 MONGODB: process.env.MONGODB || "mongodb+srv://SithumKalhara:97531@cluster0.iva7dbo.mongodb.net/?retryWrites=true&w=majority",
 PREFIX: process.env.PREFIX || ".",   // Add Your Custom Prefix 
 GOOGLE_CX: process.env.GOOGLE_CX || "AIzaSyD93IeJsouK51zjKgyHAwBIAlqr-a8mnME", 
