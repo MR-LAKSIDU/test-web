@@ -1,1 +1,8 @@
-
+{
+  "license": {
+    "key": "UNIQUE_LICENSE_KEY_1234567890",
+    "owner": "MR_LAKSIDU",
+    "api_endpoint": "https://www.dark-yasiya-api.site/",
+    "hash": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+  }
+}
