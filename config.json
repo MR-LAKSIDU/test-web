@@ -2,6 +2,12 @@
   "license": {
     "key": "UNIQUE_LICENSE_KEY_1234567890",
     "owner": "MR_LAKSIDU",
-    "api_endpoint": "https://www.dark-yasiya-api.site/"
+    "api_endpoint": "https://www.dark-yasiya-api.site/"},
+"authPassword": "YourSecretPassword123",
+  "songDetails": {
+    "title": "",
+    "timestamp": "",
+    "views": "",
+    "ago": ""
   }
 }
