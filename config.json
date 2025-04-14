@@ -1,6 +1,7 @@
 {
   "license": {
     "key": "UNIQUE_LICENSE_KEY_1234567890",
+"password": "ORIGINAL_SECURE_PASSWORD",
     "owner": "MR_LAKSIDU",
    "secureKey": "SecureHashiBot2025",
     "api_endpoint": "https://www.dark-yasiya-api.site/"},
